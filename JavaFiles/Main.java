@@ -1,3 +1,5 @@
+package JavaBeginners.JavaFiles;
+
 public class Main{
 	public static void main(String[] agrs){
 		System.out.println("I am Ankit");
@@ -23,5 +25,16 @@ public class Main{
 		int x = 5;
 		int y = 7;
 		System.out.println(x+y);
+		String studentName = "Ankit Debnath";
+		int studentId = 212;
+		int studentAge = 12;
+		float studentFee = 600.00f;
+		char studentGrade = 'A';
+
+		System.out.println(studentName);
+		System.out.println(studentId);
+		System.out.println(studentAge);
+		System.out.println(studentFee);
+		System.out.println(studentGrade);
 	}
 }
