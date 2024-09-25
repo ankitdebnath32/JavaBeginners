@@ -1,4 +1,4 @@
-package JavaBeginners.JavaFiles.Class.Abstraction;
+package JavaFiles.Class.Abstraction;
 
 abstract class Animal {
     public abstract void animalSound();

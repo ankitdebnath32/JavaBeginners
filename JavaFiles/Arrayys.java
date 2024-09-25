@@ -1,4 +1,4 @@
-package JavaBeginners.JavaFiles;
+package JavaFiles;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package JavaBeginners.JavaFiles;
+package JavaFiles;
 
 public class ArraysRealExample {
     public static void main(String[] args) {

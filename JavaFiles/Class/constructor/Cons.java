@@ -1,4 +1,4 @@
-package JavaBeginners.JavaFiles.Class.constructor;
+package JavaFiles.Class.constructor;
 
 public class Cons {
 
